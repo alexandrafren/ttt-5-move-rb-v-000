@@ -14,5 +14,3 @@ def input_to_index(input)
   input = input.to_i
   board['#{input -1}']
 end
-
-  
